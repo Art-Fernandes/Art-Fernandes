@@ -6,16 +6,16 @@
 - Artist
 - I like chess and puzzle games
 
-### 🎨 Front-End:
+## 🎨 Front-End:
 > HTML, CSS, JS
 
-### 💻 Back-End:
+## 💻 Back-End:
 > Python, PHP, MYSQL
 
-### 🚀 Other skills:
+## 🚀 Other skills:
 > UI design
 
-### 📚 What I'm learning:
+## 📚 What I'm learning:
 > Node.js, React, Django, Figma
 
 <!--
