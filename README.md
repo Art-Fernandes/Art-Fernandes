@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Arthur Fernandes 👋
+
+#### A little bit about me 😃:
+- Christian
+- Brazillian
+- Artist
+- I like chess and puzzle games
+
+### 🎨 Front-End:
+> HTML, CSS, JS
+
+### 💻 Back-End:
+> Python, PHP, MYSQL
+
+### 🚀 Other skills:
+> UI design
+
+### 📚 What I'm learning:
+> Node.js, React, Django, Figma
 
 <!--
 **Art-Fernandes/Art-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
