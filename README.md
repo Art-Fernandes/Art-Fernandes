@@ -16,7 +16,7 @@
 > UI design
 
 ## 📚 I'm learning:
-> Django
+> Django, Node.js, React
 <!--
 **Art-Fernandes/Art-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
